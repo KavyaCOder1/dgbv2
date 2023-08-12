@@ -28,7 +28,7 @@ module.exports = {
 
     task_bonus2: 0.0005,//task 2 bonus amount
 
-    privateKey: 'L1B3TETNiSyHqdQM8WMhxTutnwYMCYUgfEVDjQ8tHKwbujCXhwv5', //private key of wallet
+    privateKey: '', //private key of wallet
 
     address: 'D5ip1SBMk1vE74U9V5vkHU61ZxRy87XStF',//Celo  address of wallet
     
